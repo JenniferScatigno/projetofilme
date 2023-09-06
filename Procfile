@@ -1,1 +1,1 @@
-web: python manege.py migrate && gunicorn newflix.wsgi --log-file -
+web: python manage.py migrate && gunicorn newflix.wsgi --log-file -
