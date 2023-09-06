@@ -31,7 +31,7 @@ else:
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["projetofilme-production-db95.up.railway.app", "localhost", "127.0 0.1"]
+ALLOWED_HOSTS = ["127.0 0.1", "localhost", "projetofilme-production-db95.up.railway.app"]
 
 
 # Application definition
